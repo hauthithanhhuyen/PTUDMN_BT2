@@ -1,3 +1,6 @@
+# Hầu thị thanh huyền
+# Lớp k58KTP
+# K22548106027
 # PTUDMN_BT2
 # SỬ DỤNG DJANGO ĐỂ TẠO WEB QUẢN LÝ TIỆM CẦM ĐỒ
 TỔ CHỨC CSDL CHO HỆ THỐNG QUẢN LÝ TIỆM CẦM ĐỒ
