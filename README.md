@@ -16,5 +16,10 @@ TỔ CHỨC CSDL CHO HỆ THỐNG QUẢN LÝ TIỆM CẦM ĐỒ
 <img width="1100" height="291" alt="image" src="https://github.com/user-attachments/assets/f50a6353-5bd3-4e2d-995f-6b5f480110bc" />
 <img width="1277" height="440" alt="image" src="https://github.com/user-attachments/assets/a8730aef-8294-455d-91c1-2cd85d278ff4" />
 <img width="1893" height="872" alt="image" src="https://github.com/user-attachments/assets/c1571fcc-7c1a-489e-9a1b-5886e4af6aa0" />
+7.tạo trang con nợ quá hạn
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/e9c5a5bb-e39d-42ee-8e4a-9131cfe57083" />
+8.Tạo con nợ
+<img width="1289" height="365" alt="image" src="https://github.com/user-attachments/assets/08f39486-27f0-4f7a-bf1b-8c6808ff72f3" />
+9.Đưa về tên miền  hauthanhhuyen id.vn
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e79b631f-c080-4d6c-8df6-d22fdaadeb32" />
 
-7.
